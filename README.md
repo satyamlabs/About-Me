@@ -34,7 +34,7 @@
 ### 📫 Connect with Me
 <p align="left">
   <a href="rajwatsatyam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-satyam.rajwat%40gmail.com-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-rajwatsatyam.dev%40gmail.com-red?logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/satyamrajwat">
     <img src="https://img.shields.io/badge/LinkedIn-satyamrajwat-blue?logo=linkedin" />
