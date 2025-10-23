@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Satyam Rajwat</h1>
+<h1 align="center">👋 Hi, I'm Rajwat Satyam</h1>
 <h3 align="center">Diploma CSE Student | Ethical Hacking Learner | Future Cybersecurity Expert</h3>
 
 ---
@@ -44,7 +44,7 @@ My practical experiments and tools from ethical hacking practice and cybersecuri
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:satyam.rajwat@gmail.com">
+  <a href="mailto:rajwatsatyam.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-satyam.rajwat%40gmail.com-red?logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/satyamrajwat">
