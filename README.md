@@ -1,4 +1,3 @@
-# Portfolio
 <h1 align="center">👋 Hi, I'm Satyam Rajwat</h1>
 <h3 align="center">Diploma CSE Student | Ethical Hacking Learner | Future Cybersecurity Expert</h3>
 
@@ -8,7 +7,7 @@
 - 🎓 Pursuing **Diploma in Computer Science Engineering**  
 - 💡 Passionate about **Cybersecurity, Ethical Hacking, and Web Development**  
 - 🧑‍💻 Exploring tools, frameworks, and real-world projects  
-- 🎯 Goal: To become a **Cybersecurity Expert** and work with top companies like Google or Microsoft  
+- 🎯 Goal: To become a **Cybersecurity Expert** and work with top companies like **Google or Microsoft**
 
 ---
 
@@ -23,18 +22,30 @@
 
 ---
 
-### 🧑‍💻 Featured Project: A Batch Coders
-> A simple **college batch management project** for sharing notes, announcements & study resources.  
-> Built with **HTML, CSS, and JavaScript**.
+## 💻 College Projects
+Here are some of my academic and personal development projects from my CSE diploma:
 
-🔗 [View Repository](https://github.com/satyamlabs/ABATCHCODERS)
+| Project Name | Description | Tech Stack | Link |
+|---------------|-------------|-------------|------|
+| **A Batch Coders** | A simple batch management site for sharing notes, announcements, and study material. | HTML, CSS, JS | [View](https://github.com/satyamlabs/ABATCHCODERS) |
+| *(More projects coming soon...)* |  |  |  |
+
+---
+
+## 🔐 Ethical Hacking Projects
+My practical experiments and tools from ethical hacking practice and cybersecurity learning:
+
+| Project Name | Description | Tools / Concepts | Link |
+|---------------|-------------|------------------|------|
+| **BeaconShield** | A network monitoring and alert tool for detecting suspicious IP activity. | Python, Nmap, Wireshark | [View](#) |
+| *(More coming soon...)* |  |  |  |
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="rajwatsatyam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rajwatsatyam.dev%40gmail.com-red?logo=gmail" />
+  <a href="mailto:satyam.rajwat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-satyam.rajwat%40gmail.com-red?logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/satyamrajwat">
     <img src="https://img.shields.io/badge/LinkedIn-satyamrajwat-blue?logo=linkedin" />
@@ -49,6 +60,10 @@
 ### 🏆 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamlabs&show_icons=true&theme=tokyonight" alt="Satyam's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamlabs&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
