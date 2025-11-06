@@ -47,7 +47,7 @@ My practical experiments and tools from ethical hacking practice and cybersecuri
   <a href="mailto:rajwatsatyam.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-satyam.rajwat%40gmail.com-red?logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/satyamrajwat">
+  <a href="https://www.linkedin.com/in/satyam-rajwat-a85807397/">
     <img src="https://img.shields.io/badge/LinkedIn-satyamrajwat-blue?logo=linkedin" />
   </a>
   <a href="https://github.com/satyamlabs">
