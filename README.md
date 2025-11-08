@@ -37,7 +37,7 @@ My practical experiments and tools from ethical hacking practice and cybersecuri
 
 | Project Name | Description | Tools / Concepts | Link |
 |---------------|-------------|------------------|------|
-| **BeaconShield** | A network monitoring and alert tool for detecting suspicious IP activity. | Python, Nmap, Wireshark | [View](#) |
+| **BeaconShield** | A network monitoring and alert tool for detecting suspicious IP activity. | Python, Nmap, Wireshark | [View](https://github.com/satyamlabs/BEACONSHIELD) |
 | *(More coming soon...)* |  |  |  |
 
 ---
